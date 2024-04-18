@@ -17,6 +17,7 @@ function App() {
           <br />
           <button><a href="">register</a></button>
         </form>
+        <h2>hola</h2>
       </section>
     </div>
   )
